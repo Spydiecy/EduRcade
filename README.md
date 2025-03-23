@@ -1,6 +1,6 @@
 # eduRcade
 
-![image](https://github.com/user-attachments/assets/cdfc398c-4e01-4369-9eb5-5057eb99a3d8)
+![image](https://github.com/user-attachments/assets/3ca66e53-a537-445f-b60a-9c91b0843e44)
 
 ## Play-to-Earn Gaming Platform on educhain
 
